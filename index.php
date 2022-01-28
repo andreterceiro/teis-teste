@@ -71,7 +71,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<div class="heading-section text-center animate-box">
-							<h2>Agenda</h2>
+							<h2>Programação</h2>
 						</div>
 					</div>
 				</div>
