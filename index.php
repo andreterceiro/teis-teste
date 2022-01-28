@@ -101,8 +101,8 @@
 							<div class="schedule-content" data-day="tuesday">	
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-							        	<h3>Muay Thai</h3>
-							        	<span style="font-family: Roboto, Arial, sans-serif !important">Na terça temos Muay Thai às 20:30</span>
+							        	<h3>Basquete</h3>
+							        	<span style="font-family: Roboto, Arial, sans-serif !important">Na terça temos Basquete às 20:30</span>
 									</div>
 								</div>
 							</div>
@@ -117,8 +117,8 @@
 							<div class="schedule-content" data-day="thursday">
 								<div class="col-md-12 col-sm-6">
 									<div class="program program-schedule">
-										<h3>Muay Thai</h3>
-										<span style="font-family: Roboto, Arial, sans-serif !important">Na quinta temos novamente Muay Thai, no mesmo horaŕio de terça-feira</span>
+										<h3>Basquete</h3>
+										<span style="font-family: Roboto, Arial, sans-serif !important">Na quinta temos novamente Basquete, no mesmo horaŕio de terça-feira</span>
 									</div>
 								</div>
 							</div>
@@ -214,7 +214,7 @@
 							<div class="overlay-section">
 								<div class="desc">
 									<h3>Marcelo</h3>
-									<p>O professor Marcelo comanda uma boa aula de Muay Thai. Ele, como os outros professores, sempre respeita o ritmo dos alunos. Nada de se machucar hein?</p>
+									<p>O professor Marcelo comanda uma boa aula de Basquete. Ele, como os outros professores, sempre respeita o ritmo dos alunos. Nada de se machucar hein?</p>
 								</div>
 							</div>
 						</div>
@@ -237,7 +237,7 @@
 						<div class="price-box animate-box">
 							<h2 class="pricing-plan">1 modalidade</h2>
 							<div class="price"><sup class="currency">$</sup>140,00<small>/mês</small></div>
-							<p>Neste plano você escolhe 1 modalidade. Muay Thai por R$99,99 por mês. De R$840,00 por R$599,00 no plano semestral.</p>
+							<p>Neste plano você escolhe 1 modalidade. Basquete por R$99,99 por mês. De R$840,00 por R$599,00 no plano semestral.</p>
 						</div>
 					</div>
 
